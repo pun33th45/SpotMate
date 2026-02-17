@@ -2,37 +2,37 @@
 
 AI-Assisted Smart Parking Booking & Intelligence Platform
 
-SpotMate is a streamlined smart parking system that guides users to find and book parking spots in urban areas — with intelligent recommendations, simulated payments, and QR access verification.
+SpotMate is a smart parking MVP that demonstrates how location-aware intelligence, booking workflows, simulated payments, and QR-based access can simplify urban parking.
 
-This repository contains a complete Streamlit MVP demonstrating the core features of SpotMate, ready for deployment to Streamlit Cloud and review/demo purposes.
+This project is built using Streamlit and is designed to be deployment-ready on Streamlit Cloud for academic reviews and demos.
 
 🚀 Features
 
-🗺️ Manual location entry with live map update
+Manual location input with zone selection
 
-📊 Zone-aware parking intelligence
+Map-based parking intelligence
 
-🤖 AI-powered insights for traffic and demand
+AI-driven traffic & parking demand insights
 
-🅿️ Parking spot browsing & booking
+Parking booking workflow
 
-💳 Simulated payment options (UPI / Credit / Debit)
+Simulated payment (UPI / Credit / Debit)
 
-📲 QR-based parking ticket generation
+QR-based parking access ticket
 
-🎈 Visual celebration only on successful booking
+Mobile-browser friendly
 
-☁️ Mobile browser compatible & Streamlit Cloud deployable
+Streamlit Cloud deployable MVP
 
 🧠 Smart Intelligence Overview
 
-SpotMate’s core logic ensures predictions are location-anchored and zone-aware:
+SpotMate generates parking insights based on explicit user input, ensuring predictions are meaningful and contextual.
 
-Inputs:
+Inputs
 
-User-typed location
+User-entered location
 
-Selected zone type
+Zone type:
 
 Residential
 
@@ -40,43 +40,43 @@ Commercial
 
 Office
 
-Event/Mixed
+Event / Mixed
 
-Outputs:
+Outputs
 
-Traffic level indicator
+Traffic intensity
 
-Parking demand probability
+Parking demand level
 
-Recommended availability window
+Availability probability
 
-Visual charts and insights
+Recommended time windows
 
-AI predictions are triggered only after the user enters a location and selects a zone, ensuring contextual relevance.
+Predictions are generated only after location and zone are selected.
 
 🖼️ Screenshots
 
-🏠 Landing Page
+🏠 Landing Page -
 
-🅿️ Parking Booking
+🅿️ Parking Booking - 
 
-💳 Payment Screen
+💳 Payment Screen - 
 
-📲 QR Ticket
+📲 QR Ticket -
 
 🔬 Proof This Is a Functional Intelligent MVP
 
-Predictions depend on user-entered location and zone, not hardcoded defaults
+AI insights depend on user-entered location and zone
 
-Changing user input yields different insights
+Map updates only after valid input
 
-Map updates only after user entry
+Booking flow completes end-to-end
 
-Booking flow completes with confirmation and QR ticket
+Payment is simulated but logically complete
 
-Balloons/visual celebrations are restricted to booking success
+QR ticket contains genuine booking information
 
-No backend services required to run the demo
+Visual celebrations occur only after booking success
 
 📊 Tech Stack
 
@@ -86,50 +86,21 @@ Streamlit
 
 Pandas / NumPy
 
-PyDeck (Map rendering)
+PyDeck
 
 QRCode / Pillow
 
-Deployable on Streamlit Cloud
-
 ▶️ Run Locally
-
-Make sure you have Python 3.8+ installed.
-
-git clone https://github.com/pun33th45/SpotMate.git
-cd SpotMate
 pip install -r requirements.txt
 streamlit run app.py
 
-☁️ Deploy on Streamlit Cloud
+☁️ Deployment
 
-Push your repo to GitHub
+The application is designed to deploy directly on Streamlit Cloud without additional configuration.
 
-Visit: https://streamlit.io/cloud
+🎓 Academic Note
 
-Click New app
-
-Select your repository and app.py
-
-Click Deploy
-
-No API keys or configuration needed.
-
-💡 Notes
-
-This MVP is structured to demonstrate end-to-end product thinking, including:
-
-UX flow from search → book → payment → ticket
-
-Simple but meaningful AI insights
-
-Error-free experience suitable for academic or investor reviews
-
-👤 Contact
-
-Developer: Puneeth Yadav
-📧 Email: spotmate.help@gmail.com
-
-🔗 GitHub: https://github.com/pun33th45
+This project is an MVP built for academic demonstration and review.
+Some components (payments, backend services) are intentionally simulated to focus on AI logic, UX flow, and system design clarity.
 
 ⭐ SpotMate — Find. Book. Park.

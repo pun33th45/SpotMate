@@ -56,13 +56,13 @@ Predictions are generated only after location and zone are selected.
 
 🖼️ Screenshots
 
-🏠 Landing Page -
+🏠 Landing Page - https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/landing%20page%20.png
 
-🅿️ Parking Booking - 
+🅿️ Parking Booking - https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/parking%20booking.png
 
-💳 Payment Screen - 
+💳 Payment Screen - https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/payment%20.png
 
-📲 QR Ticket -
+📲 QR Ticket - https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/QR%20ticket%20.png
 
 🔬 Proof This Is a Functional Intelligent MVP
 

@@ -56,12 +56,24 @@ Predictions are generated only after location and zone are selected.
 
 🖼️ Screenshots
 
+🏠 Landing Page
+
+Initial entry point showcasing the SpotMate interface and navigation.
 ![Landing Page](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/landing%20page%20.png)
 
+🅿️ Parking Booking
+
+Users can browse available parking spots and proceed with booking.
 ![Parking Booking](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/parking%20booking.png)
 
+💳 Payment Screen
+
+Simulated payment flow with multiple payment method options.
 ![Payment Screen](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/payment%20.png)
 
+📲 QR Ticket
+
+QR-based parking access ticket generated after successful booking.
 ![QR Ticket](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/QR%20ticket%20.png)
 
 🔬 Proof This Is a Functional Intelligent MVP

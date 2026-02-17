@@ -56,13 +56,13 @@ Predictions are generated only after location and zone are selected.
 
 🖼️ Screenshots
 
-🏠 Landing Page - (https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/landing%20page%20.png)
+![Landing Page](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/landing%20page%20.png)
 
-🅿️ Parking Booking - (https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/parking%20booking.png)
+![Parking Booking](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/parking%20booking.png)
 
-💳 Payment Screen - (https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/payment%20.png)
+![Payment Screen](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/payment%20.png)
 
-📲 QR Ticket - (https://github.com/pun33th45/SpotMate/blob/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/QR%20ticket%20.png)
+![QR Ticket](https://raw.githubusercontent.com/pun33th45/SpotMate/f6b4dda5770fa5f417325a2fa05dccee3ea602ca/SpotMate/screenshots/QR%20ticket%20.png)
 
 🔬 Proof This Is a Functional Intelligent MVP
 

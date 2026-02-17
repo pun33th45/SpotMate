@@ -28,30 +28,6 @@ Streamlit Cloud deployable MVP
 
 SpotMate generates parking insights based on explicit user input, ensuring predictions are meaningful and contextual.
 
-Inputs
-
-User-entered location
-
-Zone type:
-
-Residential
-
-Commercial
-
-Office
-
-Event / Mixed
-
-Outputs
-
-Traffic intensity
-
-Parking demand level
-
-Availability probability
-
-Recommended time windows
-
 Predictions are generated only after location and zone are selected.
 
 🖼️ Screenshots
